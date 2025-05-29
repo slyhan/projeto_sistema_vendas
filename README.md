@@ -36,7 +36,7 @@ Este projeto simula um sistema completo de banco de dados para gerenciamento de 
 1 . Clone o repositório:
 
 
-git clone https://github.com/seuusuario/projeto-sistema-vendas-sql.git
+    git clone https://github.com/seuusuario/projeto-sistema-vendas-sql.git
 
 2 . No MySQL Workbench:
 
